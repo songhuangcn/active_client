@@ -2,6 +2,10 @@
 
 Declare HTTP client classes that can be run by a variety of adapters.
 
+[![Gem Version](https://badge.fury.io/rb/active_client.svg)](https://rubygems.org/gems/active_client)
+[![Build Status](https://github.com/songhuangcn/active_client/actions/workflows/main.yml/badge.svg)](https://github.com/songhuangcn/active_client/actions/workflows/main.yml)
+[![Documentation](https://img.shields.io/badge/docs-YARD-blue.svg)](https://rubydoc.info/gems/active_client)
+
 ## Installation
 
 Add this line to your application's Gemfile:
